@@ -87,5 +87,8 @@ padding: 1rem 0.5rem;
   padding: 1rem;
 }
 
-
+li,
+p {
+  line-height: 2.0;
+}
 
