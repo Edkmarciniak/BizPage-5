@@ -29,9 +29,9 @@ h2 {
 font-size: 1.5em;
 justify-content: center;
 }
-nav ul {
+li ul {
 display: flex;
-gap: 3rem;
+gap: rem;
 }
 li a {
 text-decoration: none;
