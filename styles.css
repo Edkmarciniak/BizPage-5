@@ -3,11 +3,7 @@ main,
 footer {
 background-color: rgb(125, 199, 126);
 }
-/*this centered the nav bar*/
-.container {
-    display: flex;
-    justify-content: center;
-}
+
 /*this aligned images 1-4. without it 4 will wrap*/
 .relative {
     display: flex;
