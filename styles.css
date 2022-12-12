@@ -39,7 +39,7 @@ color:rgb(1, 14, 14);
 text-transform: uppercase;
 font-size: 1em;
 font-weight:00;
-background-color:rgb(13, 19, 184);
+background-color:rgba(13, 19, 184, 0.576);
 padding: 0.5rem;
 border-radius: 0.5rem;
 }
@@ -82,6 +82,9 @@ padding: 1rem 0.5rem;
 }
 
 
+.bg-translucent-dark {
+  background-color: rgb(0 0 0 / 50%);
+}
 
 
 
