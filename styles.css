@@ -43,7 +43,7 @@ border-radius: 0.5rem;
 background-color:rgb(10, 131, 8);
 }
 main {
-margin: 1rem 0;
+margin: 0.5rem 0;
 padding: 1 rem;
 display: flex;
 column-gap: 1.5rem;
@@ -61,7 +61,7 @@ left: 0;
 width: 170px;
 height: 170px;
 transition: opacity 0.5s ease-in-out;
-padding: 0 0.8em
+padding: 0 0.5em
 }
 #hero {
     background-size: cover;
