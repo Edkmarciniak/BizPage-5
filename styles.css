@@ -10,7 +10,7 @@ background-color: rgb(125, 199, 126);
 }
 header div {
 display: flex;
-align-items: center;
+align-items: right;
 gap: 1rem;
 }
 li {
